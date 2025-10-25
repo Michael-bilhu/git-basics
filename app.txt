@@ -1,2 +1,1 @@
-Hello from my first git project
-This line is from my new branch.
+hello my friends, this is the future Devops developer MichaelBilhu
